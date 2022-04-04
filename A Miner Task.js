@@ -23,14 +23,14 @@ resources([
 
     console.log('-------------');
 
-resources([
-    'gold',
-    '155',
-    'silver',
-    '10',
-    'copper',
-    '17',
-    'gold',
-    '15'
-    ]
-    );  
+// resources([
+//     'gold',
+//     '155',
+//     'silver',
+//     '10',
+//     'copper',
+//     '17',
+//     'gold',
+//     '15'
+//     ]
+//     );  
